@@ -73,7 +73,7 @@
                                     sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                                     fieldLabel="Store View"
                                     fieldDescription="The Store View identifier, empty will automatically fall back to 'default'."
-                                    name="./magentoStore"
+                                    name="./cq:magentoStore"
                                     cq:showOnCreate="{Boolean}true"/>
                     <graphqlEndpoint jcr:primaryType="nt:unstructured"
                                      sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
